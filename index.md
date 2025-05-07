@@ -5,15 +5,18 @@ layout: homepage
 ## About Me
 
 <!-- I am a Ph.D. student at ... -->
-臣是共和国七十五年的硕士是党和国家的门生。
-要说恩师，
-国家就是臣的恩师。
-共和国六十八年，臣离乡求学，直到共和国七十二年，荣升学士，
-再从学士到硕士，每一步都是党和国家的拔擢。
-要说靠山，人民就是臣的靠山，要说同党，臣也只是人民的臣党！
-共和国一京二特三市五区二十三省是在十四亿人民的肩上担着！
-而臣只是人民大海中的一粟。
-天下苍生四个字，还轮不到臣来说！
+I was admitted as a doctoral student in the 75th year of the Republic (2024), nurtured as a disciple of both the Party and the state.
+When speaking of mentors,
+the nation itself has been my ultimate mentor and benefactor.
+In the Republic's 68th year (2017), I left my hometown to pursue studies. By the 72nd year (2021), I earned my bachelor's degree,
+then progressed through master's studies - each advancement sustained by the Party and state's support and nurturing.
+If asked about patronage,
+the people are my unwavering foundation.
+Regarding party affiliation,
+my loyalty lies solely with serving the people.
+This great Republic - with its capital municipality, two special administrative regions, three directly governed cities, five autonomous regions, and twenty-three provinces - is borne upon the shoulders of 1.4 billion citizens.
+As for myself,
+I am but a single drop in the vast ocean of our people.
 
 ## Research Interests
 
