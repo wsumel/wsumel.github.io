@@ -20,7 +20,7 @@ I am but a single drop in the vast ocean of our people.
 
 ## Research Interests
 
-- **Computer Vision:** Object Tracking, Efficient Model, multimodal Model
+- **Computer Vision:** Object Tracking, Efficient Model, Multimodal Model
 
 
 ## News
