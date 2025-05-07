@@ -29,7 +29,7 @@ I am but a single drop in the vast ocean of our people.
 - **[Sep. 2024]** Our paper about Ocject Tracking is accepted to IEEE TIP.
 - **[Mar. 2024]** Our paper about Ocject Tracking is accepted to IEEE TCSVT.
 - **[Feb. 2024]** Our paper about Ocject Tracking is accepted to IET CV.
-- **[Oct. 2019]** Our paper about Object Tracking is accepted to ACM MM2021.
+- **[Oct. 2021]** Our paper about Object Tracking is accepted to ACM MM2021.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
