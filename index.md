@@ -5,18 +5,7 @@ layout: homepage
 ## About Me
 
 <!-- I am a Ph.D. student at ... -->
-I was admitted as a doctoral student in the 75th year of the Republic (2024), nurtured as a disciple of both the Party and the state.
-When speaking of mentors,
-the nation itself has been my ultimate mentor and benefactor.
-In the Republic's 68th year (2017), I left my hometown to pursue studies. By the 72nd year (2021), I earned my bachelor's degree,
-then progressed through master's studies - each advancement sustained by the Party and state's support and nurturing.
-If asked about patronage,
-the people are my unwavering foundation.
-Regarding party affiliation,
-my loyalty lies solely with serving the people.
-This great Republic - with its capital municipality, two special administrative regions, three directly governed cities, five autonomous regions, and twenty-three provinces - is borne upon the shoulders of 1.4 billion citizens.
-As for myself,
-I am but a single drop in the vast ocean of our people.
+I am currently a Ph.D. student at Northwestern Polytechnical University, focusing on visual object tracking. My research interests include RGB object tracking, lightweight tracking algorithms, and multimodal tracking such as RGB-T, RGB-D, and RGB-E. I am passionate about developing efficient and robust tracking methods for real-world applications.
 
 ## Research Interests
 
