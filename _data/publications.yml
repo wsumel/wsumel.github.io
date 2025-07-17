@@ -25,7 +25,7 @@ main:
     conference_short: IEEE TIP
     conference: IEEE Transactions on Image Processing
     pdf: https://ieeexplore.ieee.org/document/10670064
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/wsumel/MCTrack
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/MCTrack.pdf
     notes: Publication
