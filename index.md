@@ -13,7 +13,7 @@ I am currently a Ph.D. student at Northwestern Polytechnical University, focusin
 
 
 ## News
-
+- **[July. 2025]** Our paper about Ocject Tracking is accepted to PR.
 - **[July. 2025]** Our paper about Ocject Tracking is accepted to ACM MM2025 (Oral).
 - **[June. 2025]** Our paper about Ocject Tracking is accepted to PR.
 - **[Apr. 2025]** Our paper about Gesture Generation is accepted to ICMR2025.
