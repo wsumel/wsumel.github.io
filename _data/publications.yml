@@ -1,22 +1,22 @@
 main:
 
-  - title: Cross-alignment for efficient visual object tracking
+  - title: Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction
+    authors: Shilei Wang, Gong Cheng*, pujian lai, Dong Gao, Junwei Han (*Corresponding authors)
+    conference_short: ACM MM2025 (Oral)
+    conference: the 33rd ACM International Conference on Multimedia
+    # pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325007083
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/MST.pdf
+    notes: Publication
+
+    - title: Cross-alignment for efficient visual object tracking
     authors: Shilei Wang#, Mingjiang Liang#, Shaoli Huang, Jifeng Ning*, Gong Cheng. (#These authors contributed equally to the work. *Corresponding authors)
     conference_short: PR
     conference: Pattern Recognition
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325007083
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/CAT.pdf
     notes: Publication
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
