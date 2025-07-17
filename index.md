@@ -16,6 +16,7 @@ I am currently a Ph.D. student at Northwestern Polytechnical University, focusin
 - **[July. 2025]** Our paper about RGB-T Ocject Tracking is accepted to PR.
 - **[July. 2025]** Our paper about Efficient Ocject Tracking is accepted to ACM MM2025 (Oral; First author).
 - **[June. 2025]** Our paper about Efficient Ocject Tracking is accepted to PR (First author).
+- **[June. 2025]** Our paper about UAV Ocject Tracking is accepted to 航空学报.
 - **[Apr. 2025]** Our paper about Gesture Generation is accepted to ICMR2025.
 - **[Sep. 2024]** Our paper about Ocject Tracking is accepted to IEEE TIP (First author).
 - **[Mar. 2024]** Our paper about Ocject Tracking is accepted to IEEE TCSVT.
