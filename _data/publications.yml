@@ -2,13 +2,13 @@ main:
 
   - title: Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction
     authors: Shilei Wang, Gong Cheng*, pujian lai, Dong Gao, Junwei Han. (*Corresponding authors)
-    conference_short: ACM MM2025 (Oral)
+    conference_short: ACM MM2025
     conference: the 33rd ACM International Conference on Multimedia
     # pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325007083
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/MST.pdf
-    notes: Access
+    notes: Access (Oral)
 
     - title: Cross-alignment for efficient visual object tracking
     authors: Shilei Wang#, Mingjiang Liang#, Shaoli Huang, Jifeng Ning*, Gong Cheng. (#These authors contributed equally to the work. *Corresponding authors)
