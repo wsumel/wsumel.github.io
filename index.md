@@ -26,6 +26,8 @@ I am currently a Ph.D. student at Northwestern Polytechnical University, majorin
 - 📄 **[Feb. 2024]** Our paper about Ocject Tracking is accepted to ***IET CV*** (First author; CCF-C).
 - 🥇 **[Oct. 2021]** I won ***First Place in the Driver Bad Driving Behavior Recognition Track of the ECV2021 Extreme Mart Computer Vision Developer Ranking Competition***.
 - 📄 **[Oct. 2021]** Our paper about Object Tracking is accepted to ***ACM MM2021*** (Oral; CCF-A).
+- 🥉 **[Oct. 2019]** I won ***the National Third Prize in the Mobile Application Innovation Competition of the China Collegiate Computing Contest***.
+- 🥉 **[Apr. 2019]** I won ***the National Third Prize in the Team Programming Ladder Competition of the China Collegiate Computing Contest***.
 
 {% include_relative _includes/publications.md %} 
 
