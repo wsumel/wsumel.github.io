@@ -7,7 +7,7 @@ main:
     # pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325007083
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/MST.pdf
+    image: ./assets/img/MST.png
     notes: Access (Oral)
 
     - title: Cross-alignment for efficient visual object tracking
@@ -17,7 +17,7 @@ main:
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325007083
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/CAT.pdf
+    image: ./assets/img/CAT.png
     notes: Publication
 
     - title: Modelling of Multiple Spatial-Temporal Relations for Robust Visual Object Tracking
@@ -27,6 +27,6 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10670064
     code: https://github.com/wsumel/MCTrack
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/MCTrack.pdf
+    image: ./assets/img/MCTrack.png
     notes: Publication
 
