@@ -4,8 +4,8 @@ main:
     authors: Shilei Wang, Gong Cheng*, pujian lai, Dong Gao, Junwei Han. (*Corresponding authors)
     conference_short: ACM MM2025
     conference: the 33rd ACM International Conference on Multimedia
-    # pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325007083
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    pdf: https://arxiv.org/pdf/2508.11531
+    code: https://github.com/wsumel/MST
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/MST.png
     notes: Access (Oral)
