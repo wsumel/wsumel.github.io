@@ -12,7 +12,7 @@ main:
 
   - title: Cross-alignment for efficient visual object tracking
     authors: Shilei Wang#, Mingjiang Liang#, Shaoli Huang, Jifeng Ning*, Gong Cheng. (#These authors contributed equally to the work. *Corresponding authors)
-    conference_short: PR
+    conference_short: PR 2025
     conference: Pattern Recognition
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325007083
     # code: https://github.com/MrGiovanni/ContinualLearning
@@ -22,7 +22,7 @@ main:
 
   - title: Modelling of Multiple Spatial-Temporal Relations for Robust Visual Object Tracking
     authors: Shilei Wang#, Zhenhua Wang#, Gong Cheng, Jifeng Ning*. (#These authors contributed equally to the work. *Corresponding authors)
-    conference_short: IEEE TIP
+    conference_short: IEEE TIP 2025
     conference: IEEE Transactions on Image Processing
     pdf: https://ieeexplore.ieee.org/document/10670064
     code: https://github.com/wsumel/MCTrack
