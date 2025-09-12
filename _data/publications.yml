@@ -2,7 +2,7 @@ main:
 
   - title: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction
     authors: Shilei Wang, Gong Cheng*, pujian lai, Dong Gao, Junwei Han. (*Corresponding authors)
-    conference_short: ACM MM2025
+    conference_short: ACM MM 2025 (Oral)
     conference: the 33rd ACM International Conference on Multimedia
     pdf: https://arxiv.org/pdf/2508.11531
     code: https://github.com/wsumel/MST
@@ -30,3 +30,12 @@ main:
     image: ./assets/img/MCTrack.png
     notes: Publication
 
+  - title: Do We Really Need Frame-by-Frame Annotation Datasets for Object Tracking ?
+    authors: Lei Hu#, Shaoli Huang#, Shilei Wang, Wei Liu, Jifeng Ning*. (#These authors contributed equally to the work. *Corresponding authors)
+    conference_short: ACM MM 2021 (Oral)
+    conference: the 29th ACM International Conference on Multimedia
+    pdf: https://dl.acm.org/doi/10.1145/3474085.3475365
+    code: https://github.com/wsumel/AMMC
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/MM21.PNG
+    notes: Publication (Oral)
