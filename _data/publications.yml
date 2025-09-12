@@ -37,5 +37,5 @@ main:
     pdf: https://dl.acm.org/doi/10.1145/3474085.3475365
     code: https://github.com/wsumel/AMMC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/MM21.PNG
+    image: ./assets/img/MM21.png
     notes: Publication (Oral)
