@@ -13,7 +13,7 @@ I am currently a Ph.D. student at Northwestern Polytechnical University, majorin
 
 
 ## News 🔥
-- 📄 **[July. 2025]** Our paper  about Efficient Ocject Tracking is accepted to ***IEEE TCSVT*** (CCF-B; JCR Q1; SCI I Top; IF: 11.1).
+- 📄 **[July. 2025]** Our paper  about Efficient Ocject Tracking is accepted to ***IEEE TCSVT*** (Co-first author; CCF-B; JCR Q1; SCI I Top; IF: 11.1).
 - 📄 **[July. 2025]** Our paper  about RGB-T Ocject Tracking is accepted to ***PR*** (CCF-B; JCR Q1; SCI I Top; IF: 7.6).
 - 📄 **[July. 2025]** Our paper about Efficient Ocject Tracking is accepted to ***ACM MM2025*** (First author; Oral; CCF-A).
 - 📄 **[June. 2025]** Our paper about Efficient Ocject Tracking is accepted to ***PR*** (First author; CCF-B; JCR Q1; SCI I Top; IF: 7.6).
