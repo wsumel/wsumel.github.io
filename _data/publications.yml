@@ -1,5 +1,15 @@
 main:
 
+  - title: Exploring Pruning-based  Efficient Object Tracking via Hybrid Knowledge Distillation
+    authors: Yidong Song#, Shilei Wang#, Zhaochuan Zeng, Jikai Zheng, Zhenhua Wang, Jifeng Ning* (#These authors contributed equally to the work. *Corresponding authors)
+    conference_short: IEEE TCSVT 2025
+    conference: IEEE Transactions on Circuits and Systems for Video Technology
+    pdf: https://ieeexplore.ieee.org/abstract/document/11162677
+    # code: https://github.com/wsumel/MST
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/HKD.png
+    notes: Early access
+
   - title: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction
     authors: Shilei Wang, Gong Cheng*, pujian lai, Dong Gao, Junwei Han. (*Corresponding authors)
     conference_short: ACM MM 2025 (Oral)
