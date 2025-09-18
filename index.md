@@ -5,7 +5,7 @@ layout: homepage
 ## About Me 👨‍🎓
 
 <!-- I am a Ph.D. student at ... -->
-I am currently a Ph.D. student at Northwestern Polytechnical University, majoring in Control Science and Engineering at the School of Automation. I focus on visual object tracking, with research interests including RGB object tracking, lightweight tracking algorithms, and multimodal tracking such as RGB-T, RGB-D, and RGB-E. I am passionate about developing efficient and robust tracking methods for real-world applications. I received both my Bachelor's and Master's degrees in Computer Science and Technology from the College of Information Engineering at Northwest A&F University.
+I am currently a Ph.D. student at Northwestern Polytechnical University, majoring in Control Science and Engineering at the School of Automation. I received both my Bachelor's and Master's degrees in Computer Science and Technology from the College of Information Engineering at Northwest A&F University. I focus on visual object tracking, with research interests including RGB object tracking, lightweight tracking algorithms, and multimodal tracking such as RGB-T, RGB-D, and RGB-E. I am passionate about developing efficient and robust tracking methods for real-world applications. 
 
 ## Research Interests 🔍
 
