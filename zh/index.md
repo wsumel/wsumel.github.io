@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: homepage
 title: 王世磊
 permalink: /zh/
---- -->
+---
 
 ## 关于我 👨‍🎓
 
