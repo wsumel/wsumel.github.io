@@ -1,7 +1,5 @@
 ---
-layout: homepage
-title: 王世磊
-permalink: /zh/
+layout: page
 ---
 
 ## 关于我 👨‍🎓
