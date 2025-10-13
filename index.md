@@ -36,4 +36,7 @@ I am currently a Ph.D. student at Northwestern Polytechnical University, majorin
 
 {% include_relative _includes/services.md %}
 
-[中文版本 🇨🇳](./index-zh.html)
+<p align="center">
+  <a href="/zh/">🇨🇳 中文版本</a>
+</p>
+
