@@ -35,3 +35,5 @@ I am currently a Ph.D. student at Northwestern Polytechnical University, majorin
 {% include_relative _includes/publications.md %} 
 
 {% include_relative _includes/services.md %}
+
+[中文版本 🇨🇳](./index-zh.html)
