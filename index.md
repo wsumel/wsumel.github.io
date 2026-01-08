@@ -15,6 +15,10 @@ I am currently a Ph.D. candidate in Control Science and Engineering at the Schoo
 ## News 🔥
 
 ###  Publications 🧾
+- [June. 2026] **LTSTrack:VisualTrackingwithLong-termTemporal.**  
+  Zhaochuan Zeng, **Shilei Wang**, Yidong Song, Zhenhua Wang, J Ning*.  
+  **Pattern Recognition (PR) (中科院一区; IF: 7.6).**
+
 - 📄 [Nov. 2025] **Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking.**  
   **Shilei Wang**, Pujian Lai, Dong Gao, Jifeng Ning, Gong Cheng*.  
   **The 40th Annual AAAI Conference on Artificial Intelligence (AAAI) (CCF-A类会议).**
