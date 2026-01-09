@@ -5,7 +5,7 @@ layout: homepage
 ## About Me 👨‍🎓
 
 <!-- I am a Ph.D. student at ... -->
-I am currently a Ph.D. candidate in Control Science and Engineering at the School of Automation, Northwestern Polytechnical University, under the supervision of Professor Gong Cheng. My research interests include visual object tracking, multimodal information fusion, and efficient model. My related works have been published in top-tier venues such as AAAI, ACM MM, IEEE TIP, IEEE TCSVT, Pattern Recognition, and ICME.
+I am currently a Ph.D. candidate in Control Science and Engineering at the School of Automation, Northwestern Polytechnical University, under the supervision of Professor Gong Cheng. My research interests include visual object tracking, multimodal information fusion, and efficient model. My related works have been published in top-tier venues such as AAAI, ACM MM, IEEE TIP, IEEE TCSVT, Pattern Recognition, and ICMR.
 
 ## Research Interests 🔍
 
@@ -15,7 +15,7 @@ I am currently a Ph.D. candidate in Control Science and Engineering at the Schoo
 ## News 🔥
 
 ###  Publications 🧾
-- [June. 2026] **LTSTrack:VisualTrackingwithLong-termTemporal.**  
+- 📄 [June. 2026] **LTSTrack:VisualTrackingwithLong-termTemporal.**  
   Zhaochuan Zeng, **Shilei Wang**, Yidong Song, Zhenhua Wang, J Ning*.  
   **Pattern Recognition (PR) (中科院一区; IF: 7.6).**
 
@@ -38,9 +38,7 @@ I am currently a Ph.D. candidate in Control Science and Engineering at the Schoo
 - 📄 [June. 2025] **Cross-alignment for Efficient Visual Object Tracking.**  
   **S Wang**, M Liang, S Huang, J Ning*, G Cheng.  
   **Pattern Recognition (PR) (中科院一区; IF: 7.6).**
-
   
-
 - 📄 [June. 2025] **基于特征协同重构的RGB-T无人机目标跟踪.**  
   D Gao, P Lai, **S Wang**, G Cheng*.  
   **航空学报 (EI; 航空航天类中文期刊第一).**
